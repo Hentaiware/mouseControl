@@ -1,6 +1,3 @@
-﻿//This program is FREEWARE and should NOT be used to make profit. 
-//You are free to MODIFY and RESHARE it without making profit.
-
 
 #include "stdafx.h"
 #include <iostream>
